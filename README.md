@@ -26,7 +26,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 1. Clone este repositório:
    
     ```bash
-    https://github.com/Cassielbr/AppBurger
+   https://github.com/Cassielbr/Cadastro
     ```
     
 2. Abra o projeto no Android Studio.
