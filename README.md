@@ -83,4 +83,4 @@ Siga os passos abaixo para rodar o projeto localmente:
 **Cassiel** - Desenvolvedor - [GitHub](https://github.com/Cassielbr)
 
 ## 📄 Licença 
-Este projeto está licenciado sob os termos da licença MIT. Para mais detalhes, veja o arquivo [LICENSE]().
+Este projeto está licenciado sob os termos da licença MIT. Para mais detalhes, veja o arquivo [LICENSE](https://github.com/Cassielbr/Cadastro/blob/master/LICENSE).
